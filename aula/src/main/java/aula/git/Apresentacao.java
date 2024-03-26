@@ -3,11 +3,11 @@ package aula.git;
 public class Apresentacao {
 
     public void apresentar() {
-        this.lucasSouza();
+        this.pedroLopes();
     }
 
-    private void lucasSouza() {
-        System.out.println("");
+    private void pedroLopes() {
+        System.out.println("FEITO :))");
         System.out.println("Estou colaborando com o git");
     }
 }
